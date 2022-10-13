@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>_4JPaging</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.20" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="4JTools">
+      <HintPath>..\..\..\4JTools\4JTools\4JTools\bin\Debug\net6.0\4JTools.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

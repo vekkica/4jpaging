@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/4JPaging/.vs
+/4JPaging/4JPaging/bin/Debug/net6.0
+/4JPaging/4JPaging/obj
